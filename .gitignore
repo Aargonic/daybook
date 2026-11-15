@@ -1,0 +1,8 @@
+# Android build output
+daybook-android/build/
+*.apk
+*.idsig
+
+# Signing key and its password: keep these private, never commit them
+*.jks
+keystore.properties

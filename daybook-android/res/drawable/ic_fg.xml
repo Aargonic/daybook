@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A journal: white cover, orange bookmark, two writing lines. Safe zone is the centre 66dp. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF" android:pathData="M38,30h30a6,6 0,0 1,6 6v36a6,6 0,0 1,-6 6h-30a4,4 0,0 1,-4 -4v-40a4,4 0,0 1,4 -4z" />
+    <path android:fillColor="#F29A3A" android:pathData="M60,30h8v22l-4,-3l-4,3z" />
+    <path android:fillColor="#2F7BEA" android:pathData="M42,58h22v3h-22zM42,65h16v3h-16z" />
+</vector>
